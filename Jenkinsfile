@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        APP_NAME = "pookzii and O"
+        APP_NAME = "pookzii pookzii pookzii"
     }
     stages {
         stage('Build Image'){
